@@ -8,3 +8,4 @@ It is in 1.16.1 since it is designed for speedrun.
 
 When downloading the source, run `./gradlew build` in the terminal to build the jar,
 make sure you are using **java 8** as the project language level.
+Then go in /build/libs and you will find `narrator_remover-1.16.1.jar`
