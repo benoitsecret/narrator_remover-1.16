@@ -1,6 +1,6 @@
 # narrator_remover-1.16
-# EASY INSTALLATION: Go to the [releases](https://github.com/benoitsecret/narrator_remover-1.16/releases/tag/RELEASE) SECTION, GET THE .JAR AND SIMPLY DRAG IT TO YOUR `mods` FOLDER
-# THIS MOD IS CURRENTLY **NOT** LEGAL FOR MCSR, THOUGH IT WOULD BE NICE TO CHANGE THAT
+# EASY INSTALLATION: Go to the [releases](https://github.com/benoitsecret/narrator_remover-1.16/releases/tag/RELEASE) section, download the .jar file and simply drag it to your `mods` folder.
+# THIS MOD IS CURRENTLY **NOT** LEGAL FOR MCSR, THOUGH IT WOULD BE NICE TO CHANGE THAT!
 
 This simple Minecraft mod removes the annoying narrator that gets triggered when pressing CTRL and B keys at the same time.
 
