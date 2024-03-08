@@ -1,0 +1,33 @@
+{
+	"schemaVersion": 1,
+	"id": "narrator_remover",
+	"version": "${version}",
+	"name": "Narrator_Remover",
+	"description": "This simple mod removes the annoying CTRL+B narrator shortcut.",
+	"authors": [
+		"Ian Mienrss l'Empereur"
+	],
+	"contact": {
+		"homepage": "Github: https://github.com/benoitsecret ; Discord: ianmienrsslempereur discordapp.com/users/404979772356165632",
+		"sources": "https://github.com/benoitsecret/narrator_remover-1.16"
+	},
+	"license": "All Rights Reserved or NO LICENCE AT ALL",
+	"icon": "assets/narrator_remover/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.narrator_remover.Narrator_Remover"
+		]
+	},
+	"mixins": [
+		"narrator_remover.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.6",
+		"minecraft": "~1.16.1",
+		"java": ">=8"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

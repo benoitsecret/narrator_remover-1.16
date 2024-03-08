@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "com.narrator_remover.mixin",
+	"compatibilityLevel": "JAVA_8",
+	"mixins": [
+		"NarratorMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
