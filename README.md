@@ -4,7 +4,7 @@
 
 This simple minecraft mod removes the annoying narrator when pressing CTRL+B.
 
-It is in 1.16.1 since it is designed for speedrun. Fabric version `0.15.6` or more recent
+It is in 1.16.1 since it is designed for speedrun. Fabric version `0.15.6` or more recent, doesn't require Fabric Api.
 
 When downloading the source, run `./gradlew build` in the terminal to build the jar,
 make sure you are using **java 8** as the project language level.
