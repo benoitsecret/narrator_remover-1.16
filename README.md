@@ -1,5 +1,5 @@
 # narrator_remover-1.16
-# CHECK OUT THE RELEASES TO GET THE JAR TO PUT IN YOUR mods FOLDER
+# CHECK OUT THE RELEASES TO GET THE JAR TO PUT IN YOUR `mods` FOLDER
 # THIS MOD IS **NOT** LEGAL FOR MCSR RSG NOR MCSR RANKED, BUT IT WOULD BE NICE IF IT WAS
 
 This simple minecraft mod removes the annoying narrator when pressing CTRL+B.
